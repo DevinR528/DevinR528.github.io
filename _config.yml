@@ -1,6 +1,6 @@
 title: "Whistle While you Wait"
 author: "Devin Ragotzy"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b> by <b><a href=\"https://github.com/niklasbuschmann\">@niklasbuschmann</a></b>"
+description: "Made with 🤷‍♂️ by <b><a href=\"https://github.com/DevinR528\">@DevinR528</a></b>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -23,7 +23,7 @@ minimal: false               # use simpler style
 
 navigation:
   - {file: "index.html", icon: home}
-  - {file: "README.md", icon: address-card}
+  - {file: "about.md", icon: address-card}
 
 external:                    # see http://fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:devin.ragotzy@gmail.com"}
